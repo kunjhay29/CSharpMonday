@@ -1,0 +1,14 @@
+C:\Users\Hassa\OneDrive\Desktop\OPTIMUS_BANK\WEEK_5\Day_18_C_NET\Assignments_C\bin\Debug\net8.0\Assignments_C.exe
+C:\Users\Hassa\OneDrive\Desktop\OPTIMUS_BANK\WEEK_5\Day_18_C_NET\Assignments_C\bin\Debug\net8.0\Assignments_C.deps.json
+C:\Users\Hassa\OneDrive\Desktop\OPTIMUS_BANK\WEEK_5\Day_18_C_NET\Assignments_C\bin\Debug\net8.0\Assignments_C.runtimeconfig.json
+C:\Users\Hassa\OneDrive\Desktop\OPTIMUS_BANK\WEEK_5\Day_18_C_NET\Assignments_C\bin\Debug\net8.0\Assignments_C.dll
+C:\Users\Hassa\OneDrive\Desktop\OPTIMUS_BANK\WEEK_5\Day_18_C_NET\Assignments_C\bin\Debug\net8.0\Assignments_C.pdb
+C:\Users\Hassa\OneDrive\Desktop\OPTIMUS_BANK\WEEK_5\Day_18_C_NET\Assignments_C\obj\Debug\net8.0\Assignments_C.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Hassa\OneDrive\Desktop\OPTIMUS_BANK\WEEK_5\Day_18_C_NET\Assignments_C\obj\Debug\net8.0\Assignments_C.AssemblyInfoInputs.cache
+C:\Users\Hassa\OneDrive\Desktop\OPTIMUS_BANK\WEEK_5\Day_18_C_NET\Assignments_C\obj\Debug\net8.0\Assignments_C.AssemblyInfo.cs
+C:\Users\Hassa\OneDrive\Desktop\OPTIMUS_BANK\WEEK_5\Day_18_C_NET\Assignments_C\obj\Debug\net8.0\Assignments_C.csproj.CoreCompileInputs.cache
+C:\Users\Hassa\OneDrive\Desktop\OPTIMUS_BANK\WEEK_5\Day_18_C_NET\Assignments_C\obj\Debug\net8.0\Assignments_C.dll
+C:\Users\Hassa\OneDrive\Desktop\OPTIMUS_BANK\WEEK_5\Day_18_C_NET\Assignments_C\obj\Debug\net8.0\refint\Assignments_C.dll
+C:\Users\Hassa\OneDrive\Desktop\OPTIMUS_BANK\WEEK_5\Day_18_C_NET\Assignments_C\obj\Debug\net8.0\Assignments_C.pdb
+C:\Users\Hassa\OneDrive\Desktop\OPTIMUS_BANK\WEEK_5\Day_18_C_NET\Assignments_C\obj\Debug\net8.0\Assignments_C.genruntimeconfig.cache
+C:\Users\Hassa\OneDrive\Desktop\OPTIMUS_BANK\WEEK_5\Day_18_C_NET\Assignments_C\obj\Debug\net8.0\ref\Assignments_C.dll
